@@ -1,5 +1,5 @@
 MOT16/
-resources/
+resources/detections/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
